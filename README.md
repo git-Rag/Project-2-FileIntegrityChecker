@@ -1,4 +1,4 @@
-# System Info Detector — Project 1
+# FileIntegrityChecker — Project 2
 
 This repository contains a portfolio-ready demo of **FileIntegrityChecker**, Python project 1 using hashlib and logging module and functions to take out all the basic info out of the computer terminal.
 
